@@ -1,0 +1,15 @@
+Install python3 and python3-pip using the package manager of the Linux Distribution.
+Note that in order to avoid potential conflicts with other packages it is strongly recommended to use a virtual environment, e.g. python3 virtualenv (see python3 virtualenv documentation) or conda environments.
+Using an isolated environment makes possible to install a specific version of scikit-learn and its dependencies independently of any previously installed Python packages. 
+In particular under Linux is it discouraged to install pip packages alongside the packages managed by the package manager of the distribution (apt, dnf, pacman…).
+Note that you should always remember to activate the environment of your choice prior to running any Python command whenever you start a new terminal session.
+The Beatles were an English rock band formed in Liverpool in 1960.
+The group, whose best-known line-up comprised John Lennon, Paul McCartney, George Harrison and Ringo Starr, are regarded as the most influential band of all time.
+They were integral to the development of 1960s counterculture and popular music's recognition as an art form.
+Rooted in skiffle, beat and 1950s rock and roll, their sound incorporated elements of classical music and traditional pop in innovative ways; the band later explored music styles ranging from ballads and Indian music to psychedelia and hard rock. 
+As pioneers in recording, songwriting and artistic presentation, the Beatles revolutionised many aspects of the music industry and were often publicised as leaders of the era's youth and sociocultural movements.
+The coin is part of a series designed by Anthony Giannini, chairman of the White House Gift Shop.
+He described the COVID-19 coin as the last in a series illustrating "President Trump's ascendance over and defeat of the deadly COVID pandemic virus."
+“When we heard the sad news of President Trump's positive COVID test, once again we had faith and prayed but we knew our President would find a way to Knockout COVID in early rounds of this battle,” Giannini wrote. 
+“President Trump, as you know, is a fan of boxing, and the new design includes more than a hint of superhero qualities in history's most fascinating president.”
+The commemorative coin went on sale before the president was released from the hospital.
